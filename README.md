@@ -4,10 +4,13 @@
 ![Yingjian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide=stars,issues&hide_border=true&theme=merko&bg_color=00000000)
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&hide_border=true&theme=merko&bg_color=00000000"/>
 
-## Lask Week Summary
+## Weekly Activity Summary
 
-TBC
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
 
 ## Current Week Target
 
-TBC
+
