@@ -7,8 +7,6 @@
 ## Weekly Activity Summary
 
 <!--START_SECTION:waka-->
-
-
 <!--END_SECTION:waka-->
 
 ## Current Week Target
