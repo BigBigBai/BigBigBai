@@ -8,7 +8,6 @@
 
 <!--START_SECTION:waka-->
 
-
 <!--END_SECTION:waka-->
 
 ## Current Week Target
