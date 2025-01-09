@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update latest status workflow
 
 on:
   # for manual workflow trigger
@@ -9,9 +9,11 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update this repo's README with weekly activity
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TIME: true
+          SHOW_TITLE: true
