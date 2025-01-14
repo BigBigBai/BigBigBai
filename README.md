@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2025 - To: 12 January 2025
+From: 06 January 2025 - To: 13 January 2025
 
-Java         2 hrs 35 mins   ██████████████▒░░░░░░░░░░   57.32 %
-JavaScript   1 hr 18 mins    ███████▒░░░░░░░░░░░░░░░░░   28.94 %
-YAML         37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+Java         4 hrs 2 mins    █████████████████░░░░░░░░   67.77 %
+JavaScript   1 hr 18 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
+YAML         37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
 ```
 
 <!--END_SECTION:waka-->
