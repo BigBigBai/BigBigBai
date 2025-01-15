@@ -18,6 +18,4 @@ YAML         37 mins         ██░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-## Current Week Target
-
 
