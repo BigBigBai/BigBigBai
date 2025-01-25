@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2025 - To: 23 January 2025
+From: 17 January 2025 - To: 24 January 2025
 
 Java             6 hrs 2 mins    ████████████████████████▓   99.20 %
 CLASS            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
