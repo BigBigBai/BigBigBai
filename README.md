@@ -9,10 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2025 - To: 30 January 2025
+From: 25 January 2025 - To: 01 February 2025
 
-Java   21 hrs 55 mins  █████████████████████████   99.64 %
-Text   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Java   24 hrs 34 mins  █████████████████████████   99.68 %
+Text   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
