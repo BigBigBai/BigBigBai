@@ -9,9 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2025 - To: 10 March 2025
+From: 04 March 2025 - To: 11 March 2025
 
-Java   10 hrs 46 mins  █████████████████████████   100.00 %
+Java          9 hrs 50 mins   █████████████████████████   99.37 %
+YAML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+IDEA_MODULE   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
