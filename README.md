@@ -9,13 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2025 - To: 24 March 2025
+From: 18 March 2025 - To: 25 March 2025
 
-Java              1 hr 28 mins    █████████████████████░░░░   84.08 %
-HTML              7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-IDEA_MODULE       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-Java Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-XML               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Java              54 mins         ████████████████████████▒   97.05 %
+Java Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
 ```
 
 <!--END_SECTION:waka-->
