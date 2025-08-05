@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2025 - To: 03 August 2025
+From: 28 July 2025 - To: 04 August 2025
 
-Java          16 hrs 2 mins   ███████████████████████░░   92.18 %
-Text          1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java          13 hrs 52 mins  ██████████████████████▓░░   91.12 %
+Text          1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
