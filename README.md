@@ -9,10 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2025 - To: 30 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
-Java       3 hrs 55 mins   ████████████████████████▒   97.44 %
-Markdown   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Java       4 hrs 54 mins   ████████████████████████▓   98.61 %
+Markdown   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
