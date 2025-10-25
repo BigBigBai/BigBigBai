@@ -9,10 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2025 - To: 23 October 2025
+From: 17 October 2025 - To: 24 October 2025
 
-Java   22 hrs 55 mins  ████████████████████████░   96.17 %
-Text   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Java   23 hrs 50 mins  ███████████████████████▒░   93.64 %
+Text   1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
 ```
 
 <!--END_SECTION:waka-->
