@@ -9,11 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-Java       30 hrs 24 mins  ██████████████████████▒░░   89.29 %
-Text       3 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-Markdown   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Java         23 hrs 25 mins  ████████████████████▓░░░░   82.64 %
+Text         3 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+JavaScript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Markdown     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
