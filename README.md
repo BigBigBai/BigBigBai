@@ -51,12 +51,12 @@
   
 <!-- GitHub Stats：自定义为蓝白色 -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&title_color=1E3A8A&icon_color=60A5FA&text_color=374151&bg_color=FFFFFF&hide_border=true" 
-  alt="stats" height="140" />
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&title_color=1E3A8A&text_color=374151&bg_color=FFFFFF&hide_border=true" 
-  alt="top langs" height="140" />
+    src="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&title_color=1E3A8A&icon_color=60A5FA&text_color=374151&bg_color=FFFFFF&hide_border=true" 
+    alt="stats" height="140" />
+  &nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&title_color=1E3A8A&text_color=374151&bg_color=FFFFFF&hide_border=true" 
+    alt="top langs" height="140" />
 
 </div>
 
