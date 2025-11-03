@@ -51,35 +51,27 @@
 
 ### ❄️ Stats
 
-<div align="center">
+<div align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
 
-<!-- 🌞🌙 Auto-switch Light / Dark GitHub Stats -->
+  <!-- Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true&title_color=93C5FD&text_color=E5E7EB&icon_color=93C5FD&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true&title_color=1E3A8A&text_color=374151&icon_color=60A5FA&bg_color=FFFFFF" />
+    <img height="150" alt="GitHub stats"
+      src="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true" />
+  </picture>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true&title_color=93C5FD&text_color=E5E7EB&icon_color=93C5FD&bg_color=0D1117"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true&title_color=1E3A8A&text_color=374151&icon_color=60A5FA&bg_color=FFFFFF"
-  />
-  <img height="140" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true" />
-</picture>
-
-&nbsp;&nbsp;
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&hide_border=true&title_color=93C5FD&text_color=E5E7EB&bg_color=0D1117"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&hide_border=true&title_color=1E3A8A&text_color=374151&bg_color=FFFFFF"
-  />
-  <img height="140" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&hide_border=true" />
-</picture>
+  <!-- Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&hide_border=true&title_color=93C5FD&text_color=E5E7EB&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&hide_border=true&title_color=1E3A8A&text_color=374151&bg_color=FFFFFF" />
+    <img height="150" alt="Top languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&hide_border=true" />
+  </picture>
 
 </div>
 
