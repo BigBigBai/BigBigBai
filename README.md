@@ -62,22 +62,6 @@
 
 ---
 
-### 🧭 Contact
-- 📫 Email: contact@example.com  
-- 🔗 LinkedIn / Blog / Twitter: 链接放这里
-
-<!-- 颜色指南
-主色(浅蓝) #60A5FA | 辅助浅蓝 #93C5FD | 强调深蓝 #1E3A8A | 背景 #FFFFFF | 次级背景 #F3F4F6 | 正文 #374151 | 浅蓝底 #E0F2FE
--->
-
-
-
-## Hi, welcome to Yingjian's Coding Corner☀️
-
-## GitHub Stats
-![Yingjian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide=stars,issues&hide_border=true&theme=tokyonight&bg_color=00000000)
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&hide_border=true&theme=merko&bg_color=00000000"/>
-
 ## Weekly Activity Summary
 
 <!--START_SECTION:waka-->
@@ -93,5 +77,16 @@ HTML              35 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+---
+
+### 🧭 Contact
+- 📫 Email: contact@example.com  
+- 🔗 LinkedIn / Blog / Twitter: 链接放这里
+
+<!-- 颜色指南
+主色(浅蓝) #60A5FA | 辅助浅蓝 #93C5FD | 强调深蓝 #1E3A8A | 背景 #FFFFFF | 次级背景 #F3F4F6 | 正文 #374151 | 浅蓝底 #E0F2FE
+-->
+
 
 
