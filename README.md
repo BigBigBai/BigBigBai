@@ -14,13 +14,15 @@
 ---
 
 ### 👋 About me
-- Full-stack / Cloud / Distributed Systems  
-- MERN、Next.js、Prisma、Postgres、Redis、Kafka、AWS  
+
+- Full-stack / Cloud / Distributed Systems
+- MERN、Next.js、Prisma、Postgres、Redis、Kafka、AWS
 - 关注性能、可观测性、工程化与可靠性
 
 ---
 
 ### 🧩 Tech stack
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-60A5FA?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-60A5FA?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-60A5FA?style=flat&logo=nextdotjs&logoColor=white)
@@ -37,9 +39,10 @@
 ---
 
 ### 🚀 Featured projects
-- **ProStore (E-commerce)** — Next.js, Prisma, Postgres, Stripe/PayPal, Redis  
-  - 缓存命中率 65%+，结账延迟 ↓ 65%，幂等支付 + Webhook 重试  
-- **Micro-services Demo** — Kafka、Redis Streams、Docker Compose  
+
+- **ProStore (E-commerce)** — Next.js, Prisma, Postgres, Stripe/PayPal, Redis
+  - 缓存命中率 65%+，结账延迟 ↓ 65%，幂等支付 + Webhook 重试
+- **Micro-services Demo** — Kafka、Redis Streams、Docker Compose
   - 订单/库存/支付解耦，死信队列 + 观测指标
 
 > 👉 想看代码？请浏览我的置顶仓库。
@@ -47,6 +50,7 @@
 ---
 
 ### 📊 Stats
+
 <div align="center">
   
 <!-- GitHub Stats：自定义为蓝白色 -->
@@ -80,13 +84,21 @@ HTML              35 mins         ▒░░░░░░░░░░░░░░�
 
 ---
 
+<!-- Contribution Snake (light blue / dark auto) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/BigBigBai/BigBigBai/output/snake-dark.svg" />
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/BigBigBai/BigBigBai/output/snake.svg" />
+</picture>
+
+---
+
 ### 🧭 Contact
-- 📫 Email: contact@example.com  
+
+- 📫 Email: contact@example.com
 - 🔗 LinkedIn / Blog / Twitter: 链接放这里
 
 <!-- 颜色指南
 主色(浅蓝) #60A5FA | 辅助浅蓝 #93C5FD | 强调深蓝 #1E3A8A | 背景 #FFFFFF | 次级背景 #F3F4F6 | 正文 #374151 | 浅蓝底 #E0F2FE
 -->
-
-
-
