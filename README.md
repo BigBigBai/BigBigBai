@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 Stats
+### ❄️ Stats
 
 <div align="center">
   
@@ -66,7 +66,7 @@
 
 ---
 
-## Weekly Activity Summary
+## ⛸️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
 
