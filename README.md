@@ -5,7 +5,7 @@
 # 🧊 BigBigBai  
 **Building clean systems with clarity & calm energy**
 
-[![Email](https://img.shields.io/badge/Email-contact%40example.com-60A5FA?style=flat&logo=gmail&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-baiyingjian%40outlook.com-60A5FA?style=flat&logo=gmail&logoColor=white)](#)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-60A5FA?style=flat&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-60A5FA?style=flat&logo=linkedin&logoColor=white)](#)
 
@@ -66,10 +66,9 @@
 
 ---
 
-## ⛸️ Weekly Coding Activity
+### ⛸️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-
 ```txt
 From: 26 October 2025 - To: 02 November 2025
 
@@ -79,10 +78,7 @@ Markdown          4 hrs 57 mins   ███░░░░░░░░░░░░�
 CSS               1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 HTML              35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
-
 <!--END_SECTION:waka-->
-
----
 
 <!-- Contribution Snake (light blue / dark auto) -->
 <picture>
