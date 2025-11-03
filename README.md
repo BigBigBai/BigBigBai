@@ -52,15 +52,34 @@
 ### ❄️ Stats
 
 <div align="center">
-  
-<!-- GitHub Stats：自定义为蓝白色 -->
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&title_color=1E3A8A&icon_color=60A5FA&text_color=374151&bg_color=FFFFFF&hide_border=true" 
-    alt="stats" height="140" />
-  &nbsp;&nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&title_color=1E3A8A&text_color=374151&bg_color=FFFFFF&hide_border=true" 
-    alt="top langs" height="140" />
+
+<!-- 🌞🌙 Auto-switch Light / Dark GitHub Stats -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true&title_color=93C5FD&text_color=E5E7EB&icon_color=93C5FD&bg_color=0D1117"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true&title_color=1E3A8A&text_color=374151&icon_color=60A5FA&bg_color=FFFFFF"
+  />
+  <img height="140" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true" />
+</picture>
+
+&nbsp;&nbsp;
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&hide_border=true&title_color=93C5FD&text_color=E5E7EB&bg_color=0D1117"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&hide_border=true&title_color=1E3A8A&text_color=374151&bg_color=FFFFFF"
+  />
+  <img height="140" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBigBai&layout=compact&hide_border=true" />
+</picture>
 
 </div>
 
@@ -69,6 +88,7 @@
 ### ⛸️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
 ```txt
 From: 26 October 2025 - To: 02 November 2025
 
@@ -78,6 +98,7 @@ Markdown          4 hrs 57 mins   ███░░░░░░░░░░░░�
 CSS               1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 HTML              35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (light blue / dark auto) -->
