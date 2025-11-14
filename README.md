@@ -85,7 +85,7 @@ I'm Yingjian - a full-stack engineer with strong experience in Next.js, and Java
 
 ---
 
-### ⛸️ Weekly Coding Activity
+### ⛸️ Weekly Coding
 
 <!--START_SECTION:waka-->
 
