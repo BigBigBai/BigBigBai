@@ -54,7 +54,7 @@ I'm Yingjian - a full-stack engineer with strong experience in Next.js, and Java
     <source media="(prefers-color-scheme: light)"
       srcset="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true&hide=prs,issues,contribs&title_color=1E3A8A&text_color=374151&icon_color=60A5FA&bg_color=FFFFFF" />
     <img height="150" alt="GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true" />
+      src="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true&hide=prs,issues,contribs" />
   </picture>
 
   <!-- Languages -->
