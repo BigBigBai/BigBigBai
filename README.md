@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-baiyingjian%40outlook.com-60A5FA?style=flat&logo=gmail&logoColor=white)](mailto:baiyingjian@outlook.com)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-60A5FA?style=flat&logo=vercel&logoColor=white)](https://portfolio-frontend-hazel.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-60A5FA?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/yingjian-bai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-60A5FA?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yingjian-bai)
 
 </div>
 
