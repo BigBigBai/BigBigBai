@@ -36,7 +36,8 @@ I'm Yingjian - a full-stack engineer with strong experience in Next.js, and Java
 
 ### 🚀 Featured projects
 
-- **ProStore (E-commerce)** — Next.js, Prisma, Postgres, Stripe/PayPal, Redis
+[![ProStore](https://img.shields.io/badge/Prostore-Visit-60A5FA?style=flat&logo=Prostore&logoColor=white)](https://prostore-sage-zeta.vercel.app/)
+**ProStore (E-commerce)** — Next.js, Prisma, Postgres, Stripe/PayPal, Redis
   - Achieved 65%+ cache hit rate, reduced checkout latency by 65%, implemented idempotent payments with reliable webhook retries.
 
 > 👉 Want to see the code? Check out my pinned repositories.
