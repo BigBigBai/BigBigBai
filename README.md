@@ -1,13 +1,11 @@
-<!-- 配色参考：主蓝 #60A5FA | 强调深蓝 #1E3A8A | 文本 #374151 | 背景 #FFFFFF -->
-
 <div align="center">
   
 # 🧊 BigBigBai  
 **Building clean systems with clarity & calm energy**
 
-[![Email](https://img.shields.io/badge/Email-baiyingjian%40outlook.com-60A5FA?style=flat&logo=gmail&logoColor=white)](#)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-60A5FA?style=flat&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-60A5FA?style=flat&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-baiyingjian%40outlook.com-60A5FA?style=flat&logo=gmail&logoColor=white)](mailto:baiyingjian@outlook.com)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-60A5FA?style=flat&logo=vercel&logoColor=white)](https://portfolio-frontend-hazel.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-60A5FA?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/yingjian-bai)
 
 </div>
 
@@ -15,9 +13,7 @@
 
 ### 👋 About me
 
-- Full-stack / Cloud / Distributed Systems
-- MERN、Next.js、Prisma、Postgres、Redis、Kafka、AWS
-- 关注性能、可观测性、工程化与可靠性
+I'm Yingjian - a full-stack engineer with strong experience in Next.js, and Java microservices, focused on building high-performance and scalable systems.
 
 ---
 
@@ -41,11 +37,9 @@
 ### 🚀 Featured projects
 
 - **ProStore (E-commerce)** — Next.js, Prisma, Postgres, Stripe/PayPal, Redis
-  - 缓存命中率 65%+，结账延迟 ↓ 65%，幂等支付 + Webhook 重试
-- **Micro-services Demo** — Kafka、Redis Streams、Docker Compose
-  - 订单/库存/支付解耦，死信队列 + 观测指标
+  - Achieved 65%+ cache hit rate, reduced checkout latency by 65%, implemented idempotent payments with reliable webhook retries.
 
-> 👉 想看代码？请浏览我的置顶仓库。
+> 👉 Want to see the code? Check out my pinned repositories.
 
 ---
 
@@ -56,9 +50,9 @@
   <!-- Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true&title_color=93C5FD&text_color=E5E7EB&icon_color=93C5FD&bg_color=0D1117" />
+      srcset="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true&hide=prs,issues,contribs&title_color=93C5FD&text_color=E5E7EB&icon_color=93C5FD&bg_color=0D1117" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true&title_color=1E3A8A&text_color=374151&icon_color=60A5FA&bg_color=FFFFFF" />
+      srcset="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true&hide=prs,issues,contribs&title_color=1E3A8A&text_color=374151&icon_color=60A5FA&bg_color=FFFFFF" />
     <img height="150" alt="GitHub stats"
       src="https://github-readme-stats.vercel.app/api?username=BigBigBai&show_icons=true&hide_border=true" />
   </picture>
@@ -102,11 +96,6 @@ XML          20 mins         ▒░░░░░░░░░░░░░░░░
 </picture>
 
 ---
-
-### 🧭 Contact
-
-- 📫 Email: contact@example.com
-- 🔗 LinkedIn / Blog / Twitter: 链接放这里
 
 <!-- 颜色指南
 主色(浅蓝) #60A5FA | 辅助浅蓝 #93C5FD | 强调深蓝 #1E3A8A | 背景 #FFFFFF | 次级背景 #F3F4F6 | 正文 #374151 | 浅蓝底 #E0F2FE
