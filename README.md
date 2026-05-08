@@ -92,12 +92,12 @@ I'm Yingjian - a full-stack engineer with strong experience in Next.js, and Java
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2026 - To: 07 May 2026
+From: 01 May 2026 - To: 08 May 2026
 
-Markdown     2 hrs 41 mins         ███████████████████████░░   91.57 %
-Python       12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-Other        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Markdown     2 hrs 41 mins         ██████████████████████▓░░   90.69 %
+Python       12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Other        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
